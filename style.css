@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin:150px;
+    background-color: rgb(227, 227, 227);
+    padding: 5pxs;
+    text-align: center;
+    border-radius: 10px;
+    display: block;
+
+
+}
+
+button{
+
+    padding: 5px 20px;
+    background-color: rgb(112, 112, 208);
+    color: aliceblue;
+    border-radius: 20px;
+    border:none;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(102, 102, 102);
+    font-size: 5px;
+    padding: auto;
+    display: flex;
+}
